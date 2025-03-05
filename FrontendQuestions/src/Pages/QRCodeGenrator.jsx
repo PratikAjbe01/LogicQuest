@@ -48,6 +48,7 @@ function QRCodeGenrator() {
         />
       </div>
       <button
+      
         onClick={genrateQr}
         className="w-full bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded focus:outline-none focus:ring focus:border-blue-300"
       >

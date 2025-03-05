@@ -1,6 +1,7 @@
 import React from 'react'
 // import ShoppingCart from './Pages/ShoppingCart'
-import QRCodeGenrator from './Pages/QRCodeGenrator'
+import Emoji from './Pages/Emoji'
+// import QRCodeGenrator from './Pages/QRCodeGenrator'
 // import Todo from './Pages/Todo'
 // import TicTacToe from './Pages/TicTacToe'
 // import DiceRoll from './Pages/DiceRoll'
@@ -11,7 +12,8 @@ function App() {
    {/* <Todo/> */}
    {/* <TicTacToe/> */}
    {/* <ShoppingCart/> */}
-   <QRCodeGenrator/>
+   <Emoji/>
+   {/* <QRCodeGenrator/> */}
    </>
       
 
